@@ -1,0 +1,16 @@
+{
+	"ADD": "Adicionar",
+	"CLEAR": "Limpar",
+	"DASHBOARD": "Painél de Controle",
+	"DETAILS": "Detalhes",
+	"GO_BACK": "Voltar",
+	"HELLO": "Daew {{value}}",
+	"HEROES": "Heróis",
+	"HERO_NAME": "Nome do Herói",
+	"HERO_SEARCH": "Procurar Heróis",
+	"MESSAGES": "Mensagens",
+	"MY_HEROES": "Meus Heróis",
+	"NAME": "Nome",
+	"SAVE": "Salvar",
+	"TOP_HEROES": "Heróis TOP"
+}

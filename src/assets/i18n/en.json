@@ -1,0 +1,16 @@
+{
+	"ADD": "Add",
+	"CLEAR": "Clear",
+	"DASHBOARD": "Dashboard",
+	"DETAILS": "Details",
+	"GO_BACK": "Go back",
+	"HELLO": "Hello {{value}}",
+	"HEROES": "Heroes",
+	"HERO_NAME": "Hero name",
+	"HERO_SEARCH": "Hero Search",
+	"MESSAGES": "Messages",
+	"MY_HEROES": "My Heroes",
+	"NAME": "Name",
+	"SAVE": "Save",
+	"TOP_HEROES": "Top Heroes"
+}
